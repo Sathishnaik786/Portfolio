@@ -1,14 +1,7 @@
 [
   {
     "name": "Resume Builder",
-    "desc": "It is an application that simplifies the taks of creating a
-resume for individuals.
-The system is flexible to be used and reduces the need of
-thinking and desiging an appropriate resume according to
-qualifications.The system is developed to
-provide an easy means for creating a professional looking
-resume.
-Used technologies: HTML, CSS, PHP, JAVASCRIPT, SQL.",
+    "desc": "It is an application that simplifies the taks of creating a resume for individuals.Used technologies: HTML, CSS, PHP, JAVASCRIPT, SQL.",
     "image": "notystackandroid",
     "category": "android",
     "links": {
