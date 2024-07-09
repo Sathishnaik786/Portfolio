@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Resume Builder",
+    "desc": "It is an application that simplifies the taks of creating a resume for individuals.Used technologies: HTML, CSS, PHP, JAVASCRIPT, SQL.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/in/isathishnaik",
+      "code": "https://github.com/Sathishnaik786"
+    }
+  }
+]
